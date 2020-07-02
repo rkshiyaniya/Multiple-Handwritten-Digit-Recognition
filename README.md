@@ -25,13 +25,13 @@
 
 * Drawing canvas ...
 
-![Input](drawing_canvas_window.jpg?raw=true)
+![Input](gui/drawing_canvas_window.jpg?raw=true)
 
 * Output Imgae ...
 
-![Output](predicted_image.jpg?raw=true)
+![Output](gui/predicted_image.jpg?raw=true)
 
 * Saved Image using PIL-ImageGrab ...
 
-![Grabbed_Image](img_0.png?raw=true)
+![Grabbed_Image](img/img_0.png?raw=true)
 
