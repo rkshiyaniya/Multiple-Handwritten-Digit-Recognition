@@ -20,11 +20,11 @@
 # Screenshots
 
 * Drawing canvas ...
-![Input](drawing_canvas_window.jpg?raw=true | width=100 height=100)
+![Input](drawing_canvas_window.jpg?raw=true){:height="50%" width="50%"}
 
 * Output Imgae ...
-![Output](predicted_image.jpg?raw=true)
+![Output](predicted_image.jpg?raw=true){:height="50%" width="50%"}
 
-* Saved Image using PIL.ImageGrab
-![Grabbed Image](img_0.png?raw=true)
+* Saved Image using PIL-ImageGrab
+![Grabbed Image](img_0.png?raw=true){:height="50%" width="50%"}
 
