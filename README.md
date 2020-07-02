@@ -20,9 +20,9 @@
 # Screenshots
 
 * Drawing canvas ...
-![Input](drawing_canvas_window.png?raw=true)
+![Input](drawing_canvas_window.jpg?raw=true)
 * Output Imgae ...
-![Output](predicted_image.png?raw=true)
+![Output](predicted_image.jpg?raw=true)
 * Saved Image using PIL.ImageGrab
 ![Grabbed Image](img_0.png?raw=true)
 
