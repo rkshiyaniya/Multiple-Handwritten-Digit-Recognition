@@ -15,16 +15,23 @@
 
 * Save model as 'mnist.h5' ( train_digit_recognizer.py )
 
-* Use saved model 'mnist.h5' to predict Handwritten Digit written on *tkinter* Canvas ( final_gui.py )
+* Using tkinter GUI make a canvas and write digit on it
+
+* Using PIL get a copy of Handwritten Digits on the canvas and saved into '/img' as 'img_{image_number}.png'
+
+* Use saved model 'mnist.h5' to predict saved Handwritten Digit image from canvas
 
 # Screenshots
 
 * Drawing canvas ...
+
 ![Input](drawing_canvas_window.jpg?raw=true)
 
 * Output Imgae ...
+
 ![Output](predicted_image.jpg?raw=true)
 
 * Saved Image using PIL-ImageGrab ...
+
 ![Grabbed_Image](img_0.png?raw=true)
 
