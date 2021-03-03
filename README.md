@@ -25,7 +25,8 @@
 
 * Drawing canvas ...
 
-![Input](gui/drawing_canvas_window.jpg?raw=true){:height="700px" width="400px"}
+
+<img src="gui/drawing_canvas_window.jpg?raw=true" width="100" height="100">
 
 * Output Imgae ...
 
