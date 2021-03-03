@@ -26,7 +26,7 @@
 * Drawing canvas ...
 
 
-<img src="gui/drawing_canvas_window.jpg?raw=true" width="100" height="100">
+<img src="gui/drawing_canvas_window.jpg?raw=true" width="784" height="784">
 
 * Output Imgae ...
 
