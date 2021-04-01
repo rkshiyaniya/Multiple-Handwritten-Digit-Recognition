@@ -27,11 +27,11 @@
 
 * Drawing canvas ...
 
-<img src="gui/drawing_canvas_window.jpg?raw=true" width="784" height="784">
+<img src="gui/drawing_canvas_window.png?raw=true" width="784" height="784">
 
 * Output Imgae ...
 
-<img src="gui/predicted_image.jpg?raw=true" width="784" height="784">
+<img src="gui/predicted_image.png?raw=true" width="784" height="784">
 
 * Saved Image using PIL-ImageGrab ...
 
