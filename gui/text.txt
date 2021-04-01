@@ -1,7 +1,0 @@
-Here's my first Deep Learning Project that I made few months back.
-I know it's a 'Hello World!' of Deep Learning.
-Still I tried to make it extra-ordinary by recognizing not only single digit but Multiple Handwritten Digit.
-I have also make GUI version of it.
-
-For more information, Here's the link of Github Repo :
-https://github.com/rkshiyaniya/Multiple-Handwritten-Digit-Recognition
