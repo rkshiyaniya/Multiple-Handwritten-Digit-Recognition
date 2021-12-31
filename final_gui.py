@@ -45,8 +45,8 @@ def Recognize_Digit():
     filename = f'img_{image_number}.png'
     widget = cv
 
-    x = root.winfo_rootx() + widget.winfo_rootx()
-    y = root.winfo_rooty() + widget.winfo_rooty()
+    x = widget.winfo_rootx()
+    y = widget.winfo_rooty()
     x1 = x + widget.winfo_width()
     y1 = y + widget.winfo_height()
     print(x, y, x1, y1)
@@ -56,7 +56,7 @@ def Recognize_Digit():
 
     image = cv2.imread(image_folder + filename, cv2.IMREAD_COLOR)
     gray = cv2.cvtColor(image.copy(), cv2.COLOR_BGR2GRAY)
-    ret, th = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
+    ret,th = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
 
     contours = cv2.findContours(th, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)[0]
 
